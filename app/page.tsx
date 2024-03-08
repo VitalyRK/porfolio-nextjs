@@ -71,7 +71,9 @@ export default function Home() {
         </div>
 
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
-          <p>Hello everybody! My name is Vitaly. I'm a FrontDev developer.</p>
+          <p>
+            Hello everybody! My name is Vitaly. I&apos;m a FrontDev developer.
+          </p>
           <p>
             I love to build web applications with the React framework. When I
             first discovered React, I was blown away by the interactivity and
@@ -82,8 +84,8 @@ export default function Home() {
           <p>
             For me, the ultimate combination of creative expression and
             technical expertise is building engaging, easy-to-use applications
-            for consumers. I'm excited to continue this journey, hone my skills,
-            and gain essential experience and practice.
+            for consumers. I&apos;m excited to continue this journey, hone my
+            skills, and gain essential experience and practice.
           </p>
         </div>
       </div>
